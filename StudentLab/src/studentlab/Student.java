@@ -1,3 +1,6 @@
+
+package studentlab;
+
 public class Student extends Person
 {
    private static int nextFreeNumber = 0;

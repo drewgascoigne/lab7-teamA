@@ -1,4 +1,4 @@
-
+package studentlab;
 public class Professor extends Person
 {
    private String office;

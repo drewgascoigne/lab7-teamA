@@ -1,3 +1,5 @@
+package studentlab;
+
 public class Name
 {
    private String first, last;
