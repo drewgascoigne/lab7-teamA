@@ -5,6 +5,7 @@ public class Professor extends Person
 
    public Professor(String firstName, String lastName) 
    {
+       
    };
    public void setOffice(String office) { }
    public String getOffice() { return null;}
